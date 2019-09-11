@@ -1,0 +1,21 @@
+{
+  "iTSystemAssessmentGrantActionTaskReference" : "ISAGATR769715",
+  "iTSystemAssessmentInstanceRecord" : {
+    "employeeBusinessUnitReference" : "773793",
+    "productionReleaseTestProfile" : "productionReleaseTestProfile",
+    "productionReleaseName" : "productionReleaseName",
+    "productionReleaseTestSchedule" : "productionReleaseTestSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "productionReleaseType" : "productionReleaseType",
+    "productionReleaseConsolidationRecord" : {},
+    "productionReleaseDescription" : "productionReleaseDescription",
+    "documentDirectoryEntryInstanceReference" : "749524"
+  },
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "iTSystemAssessmentGrantActionTaskRecord" : {},
+  "grantRequestRecordReference" : "GRRR782478"
+}

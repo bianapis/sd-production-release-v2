@@ -1,0 +1,17 @@
+{
+  "productionRiskRetrieveActionTaskReference" : "PRRATR789258",
+  "productionRiskInstanceReport" : {
+    "productionRiskInstanceReportType" : "productionRiskInstanceReportType",
+    "productionRiskInstanceReportParameters" : "productionRiskInstanceReportParameters",
+    "productionRiskInstanceReportRecord" : {},
+    "productionRiskInstanceReport" : {}
+  },
+  "productionRiskRetrieveActionTaskRecord" : {},
+  "productionRiskInstanceAnalysis" : {
+    "productionRiskInstanceAnalysisReportType" : "productionRiskInstanceAnalysisReportType",
+    "productionRiskInstanceAnalysisReport" : {},
+    "productionRiskInstanceAnalysisRecord" : {},
+    "productionRiskInstanceAnalysisParameters" : "productionRiskInstanceAnalysisParameters"
+  },
+  "productionRiskRetrieveActionResponse" : "productionRiskRetrieveActionResponse"
+}

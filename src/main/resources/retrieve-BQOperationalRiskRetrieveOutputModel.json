@@ -1,0 +1,17 @@
+{
+  "operationalRiskRetrieveActionTaskRecord" : {},
+  "operationalRiskInstanceReport" : {
+    "operationalRiskInstanceReportRecord" : {},
+    "operationalRiskInstanceReport" : {},
+    "operationalRiskInstanceReportType" : "operationalRiskInstanceReportType",
+    "operationalRiskInstanceReportParameters" : "operationalRiskInstanceReportParameters"
+  },
+  "operationalRiskRetrieveActionResponse" : "operationalRiskRetrieveActionResponse",
+  "operationalRiskRetrieveActionTaskReference" : "ORRATR791016",
+  "operationalRiskInstanceAnalysis" : {
+    "operationalRiskInstanceAnalysisReport" : {},
+    "operationalRiskInstanceAnalysisRecord" : {},
+    "operationalRiskInstanceAnalysisParameters" : "operationalRiskInstanceAnalysisParameters",
+    "operationalRiskInstanceAnalysisReportType" : "operationalRiskInstanceAnalysisReportType"
+  }
+}

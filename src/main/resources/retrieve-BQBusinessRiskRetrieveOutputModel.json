@@ -1,0 +1,17 @@
+{
+  "businessRiskRetrieveActionTaskRecord" : {},
+  "businessRiskInstanceReport" : {
+    "businessRiskInstanceReportParameters" : "businessRiskInstanceReportParameters",
+    "businessRiskInstanceReport" : {},
+    "businessRiskInstanceReportRecord" : {},
+    "businessRiskInstanceReportType" : "businessRiskInstanceReportType"
+  },
+  "businessRiskRetrieveActionTaskReference" : "BRRATR739509",
+  "businessRiskRetrieveActionResponse" : "businessRiskRetrieveActionResponse",
+  "businessRiskInstanceAnalysis" : {
+    "businessRiskInstanceAnalysisParameters" : "businessRiskInstanceAnalysisParameters",
+    "businessRiskInstanceAnalysisReport" : {},
+    "businessRiskInstanceAnalysisRecord" : {},
+    "businessRiskInstanceAnalysisReportType" : "businessRiskInstanceAnalysisReportType"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "functionalRiskRetrieveActionResponse" : "functionalRiskRetrieveActionResponse",
+  "functionalRiskInstanceReport" : {
+    "functionalRiskInstanceReportType" : "functionalRiskInstanceReportType",
+    "functionalRiskInstanceReportParameters" : "functionalRiskInstanceReportParameters",
+    "functionalRiskInstanceReport" : {},
+    "functionalRiskInstanceReportRecord" : {}
+  },
+  "functionalRiskInstanceAnalysis" : {
+    "functionalRiskInstanceAnalysisParameters" : "functionalRiskInstanceAnalysisParameters",
+    "functionalRiskInstanceAnalysisReport" : {},
+    "functionalRiskInstanceAnalysisReportType" : "functionalRiskInstanceAnalysisReportType",
+    "functionalRiskInstanceAnalysisRecord" : {}
+  },
+  "functionalRiskRetrieveActionTaskReference" : "FRRATR726853",
+  "functionalRiskRetrieveActionTaskRecord" : {}
+}

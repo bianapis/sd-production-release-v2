@@ -1,0 +1,18 @@
+{
+  "iTSystemAssessmentUpdateActionTaskRecord" : {},
+  "iTSystemAssessmentInstanceRecord" : {
+    "employeeBusinessUnitReference" : "705016",
+    "productionReleaseTestProfile" : "productionReleaseTestProfile",
+    "productionReleaseName" : "productionReleaseName",
+    "productionReleaseTestSchedule" : "productionReleaseTestSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "productionReleaseType" : "productionReleaseType",
+    "productionReleaseConsolidationRecord" : {},
+    "productionReleaseDescription" : "productionReleaseDescription",
+    "documentDirectoryEntryInstanceReference" : "715782"
+  },
+  "iTSystemAssessmentUpdateActionTaskReference" : "ISAUATR731580",
+  "updateResponseRecord" : {}
+}

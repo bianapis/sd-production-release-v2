@@ -1,0 +1,18 @@
+{
+  "iTSystemAssessmentRequestActionTaskReference" : "ISARATR741066",
+  "requestRecordReference" : "RRR766706",
+  "iTSystemAssessmentInstanceRecord" : {
+    "productionReleaseTestProfile" : "productionReleaseTestProfile",
+    "productionReleaseName" : "productionReleaseName",
+    "productionReleaseTestSchedule" : "productionReleaseTestSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "productionReleaseType" : "productionReleaseType",
+    "productionReleaseConsolidationRecord" : {},
+    "productionReleaseDescription" : "productionReleaseDescription",
+    "documentDirectoryEntryInstanceReference" : "724358"
+  },
+  "iTSystemAssessmentRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

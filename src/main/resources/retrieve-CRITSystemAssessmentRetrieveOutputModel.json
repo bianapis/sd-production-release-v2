@@ -1,0 +1,15 @@
+{
+  "iTSystemAssessmentRetrieveActionTaskRecord" : {},
+  "iTSystemAssessmentInstanceReportRecord" : {
+    "iTSystemAssessmentInstanceReportType" : "iTSystemAssessmentInstanceReportType",
+    "iTSystemAssessmentInstanceReport" : {},
+    "iTSystemAssessmentInstanceReportData" : "iTSystemAssessmentInstanceReportData"
+  },
+  "iTSystemAssessmentRetrieveActionResponse" : "iTSystemAssessmentRetrieveActionResponse",
+  "iTSystemAssessmentRetrieveActionTaskReference" : "ISARATR799703",
+  "iTSystemAssessmentInstanceAnalysis" : {
+    "iTSystemAssessmentInstanceAnalysisReport" : {},
+    "iTSystemAssessmentInstanceAnalysisReportType" : "iTSystemAssessmentInstanceAnalysisReportType",
+    "iTSystemAssessmentInstanceAnalysisData" : "iTSystemAssessmentInstanceAnalysisData"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "operationalRiskExchangeActionResponse" : "operationalRiskExchangeActionResponse",
+  "iTSystemAssessmentInstanceRecord" : {
+    "employeeBusinessUnitReference" : "764820",
+    "productionReleaseTestProfile" : "productionReleaseTestProfile",
+    "productionReleaseName" : "productionReleaseName",
+    "productionReleaseTestSchedule" : "productionReleaseTestSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "productionReleaseType" : "productionReleaseType",
+    "productionReleaseConsolidationRecord" : {},
+    "productionReleaseDescription" : "productionReleaseDescription",
+    "documentDirectoryEntryInstanceReference" : "703222"
+  },
+  "operationalRiskExchangeActionTaskReference" : "OREATR710317",
+  "operationalRiskInstanceStatus" : "operationalRiskInstanceStatus",
+  "operationalRiskExchangeActionTaskRecord" : {},
+  "operationalRiskInstanceRecord" : {
+    "operationalRiskSystemTestWorkProduct" : "operationalRiskSystemTestWorkProduct",
+    "operationalRiskSystemTestType" : "operationalRiskSystemTestType",
+    "operationalRiskSystemTestResult" : "operationalRiskSystemTestResult",
+    "operationalRiskSystemTestDescription" : "operationalRiskSystemTestDescription"
+  }
+}

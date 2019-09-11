@@ -1,0 +1,25 @@
+{
+  "iTSystemAssessmentInstanceRecord" : {
+    "employeeBusinessUnitReference" : "703288",
+    "productionReleaseTestProfile" : "productionReleaseTestProfile",
+    "productionReleaseName" : "productionReleaseName",
+    "productionReleaseTestSchedule" : "productionReleaseTestSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "productionReleaseType" : "productionReleaseType",
+    "productionReleaseConsolidationRecord" : {},
+    "productionReleaseDescription" : "productionReleaseDescription",
+    "documentDirectoryEntryInstanceReference" : "776423"
+  },
+  "functionalRiskExchangeActionResponse" : "functionalRiskExchangeActionResponse",
+  "functionalRiskInstanceStatus" : "functionalRiskInstanceStatus",
+  "functionalRiskExchangeActionTaskRecord" : {},
+  "functionalRiskExchangeActionTaskReference" : "FREATR736376",
+  "functionalRiskInstanceRecord" : {
+    "functionalRiskSystemTestResult" : "functionalRiskSystemTestResult",
+    "functionalRiskSystemTestType" : "functionalRiskSystemTestType",
+    "functionalRiskSystemTestWorkProduct" : "functionalRiskSystemTestWorkProduct",
+    "functionalRiskSystemTestDescription" : "functionalRiskSystemTestDescription"
+  }
+}

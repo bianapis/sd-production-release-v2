@@ -1,0 +1,25 @@
+{
+  "productionRiskInstanceRecord" : {
+    "productionRiskSystemTestType" : "productionRiskSystemTestType",
+    "productionRiskSystemTestDescription" : "productionRiskSystemTestDescription",
+    "productionRiskSystemTestResult" : "productionRiskSystemTestResult",
+    "productionRiskSystemTestWorkProduct" : "productionRiskSystemTestWorkProduct"
+  },
+  "iTSystemAssessmentInstanceRecord" : {
+    "employeeBusinessUnitReference" : "716806",
+    "productionReleaseTestProfile" : "productionReleaseTestProfile",
+    "productionReleaseName" : "productionReleaseName",
+    "productionReleaseTestSchedule" : "productionReleaseTestSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "productionReleaseType" : "productionReleaseType",
+    "productionReleaseConsolidationRecord" : {},
+    "productionReleaseDescription" : "productionReleaseDescription",
+    "documentDirectoryEntryInstanceReference" : "788158"
+  },
+  "productionRiskExchangeActionResponse" : "productionRiskExchangeActionResponse",
+  "productionRiskInstanceStatus" : "productionRiskInstanceStatus",
+  "productionRiskExchangeActionTaskRecord" : {},
+  "productionRiskExchangeActionTaskReference" : "PREATR781352"
+}

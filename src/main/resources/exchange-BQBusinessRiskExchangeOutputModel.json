@@ -1,0 +1,25 @@
+{
+  "iTSystemAssessmentInstanceRecord" : {
+    "employeeBusinessUnitReference" : "744949",
+    "productionReleaseTestProfile" : "productionReleaseTestProfile",
+    "productionReleaseName" : "productionReleaseName",
+    "productionReleaseTestSchedule" : "productionReleaseTestSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "productionReleaseType" : "productionReleaseType",
+    "productionReleaseConsolidationRecord" : {},
+    "productionReleaseDescription" : "productionReleaseDescription",
+    "documentDirectoryEntryInstanceReference" : "787582"
+  },
+  "businessRiskExchangeActionTaskReference" : "BREATR747616",
+  "businessRiskInstanceStatus" : "businessRiskInstanceStatus",
+  "businessRiskExchangeActionTaskRecord" : {},
+  "businessRiskInstanceRecord" : {
+    "businessRiskTestResult" : "businessRiskTestResult",
+    "businessRiskSystemTestDescription" : "businessRiskSystemTestDescription",
+    "businessRiskTestWorkProduct" : "businessRiskTestWorkProduct",
+    "businessRiskSystemTestType" : "businessRiskSystemTestType"
+  },
+  "businessRiskExchangeActionResponse" : "businessRiskExchangeActionResponse"
+}
